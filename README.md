@@ -1,2 +1,1 @@
-# airport-mis
-Airport Management Information System — PostgreSQL
+# Ercan Airport Management Information System PostgreSQL database for Ercan Airport (LCEN), North Cyprus. ## Files - `sql/01_ddl.sql` — Schema, tables, constraints, trigger - `sql/02_dml.sql` — Sample data (seed) - `sql/03_queries.sql` — 15 management queries - `docs/REPORT.md` — Full project report with ERD ## How to run 1. Create a PostgreSQL database 2. Run 01_ddl.sql → 02_dml.sql → 03_queries.sql in order
